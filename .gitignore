@@ -1,0 +1,33 @@
+# Build artifacts
+obj/
+bin/
+*.exe
+*.o
+*.out
+
+# IDE and editor files
+.vscode/
+.vs/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Log files
+*.log
+data/*.log
+
+# Debug files
+*.dSYM/
+*.pdb
