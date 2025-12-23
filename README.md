@@ -1,11 +1,6 @@
 # Medical Diagnostic System
 
-⚠️ **IMPORTANT MEDICAL DISCLAIMER** ⚠️  
-**This is an educational project for programming practice only. Do NOT use this for actual medical decisions. Always consult qualified healthcare professionals for real medical advice, diagnosis, and treatment.**
-
----
-
-## 🚀 Quick Setup & Run
+##  Quick Setup & Run
 
 ### 1. **Get the Project**
 
@@ -32,7 +27,6 @@ gcc -Wall -Wextra -std=c99 -O2 -Iinclude -o medical_system main.c src/*/*.c
 - **Default Admin Account:**
   - Username: `admin`
   - Password: `admin123`
-- **⚠️ IMPORTANT:** Change the default password after first login!
 
 ---
 
